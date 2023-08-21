@@ -13,7 +13,9 @@ you need to run the code in your machine and train it, just run everything after
 the data set is in the right folder and referenced in the notebook.
 the training would be faster if you have an Nvidia GPU and CUDA installed
 see the links for more information : 
+
 https://developer.nvidia.com/cuda-toolkit
+
 https://www.anaconda.com/download
 
 ## Libraries:
