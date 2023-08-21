@@ -8,6 +8,14 @@ to gap length is its advantage over other RNNs, hidden Markov models, and other 
 
 in the notebook, you can find all the findings and graphs
 
+I couldn't upload the tokenizer and the model files because they were too big for GitHub so
+you need to run the code in your machine and train it, just run everything after making sure
+the data set is in the right folder and referenced in the notebook.
+the training would be faster if you have an Nvidia GPU and CUDA installed
+see the links for more information : 
+https://developer.nvidia.com/cuda-toolkit
+https://www.anaconda.com/download
+
 ## Libraries:
 - **Tensorflow:** is an open-source machine-learning framework that allows us to build machine
 learning, deep learning, and neural networks.
