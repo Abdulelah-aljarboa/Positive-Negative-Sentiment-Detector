@@ -42,3 +42,4 @@ animated, and interactive visualizations. We used it to make the data visualizat
 
 ## Data Set
 The data set for the project was taken from this Kaggle link: https://www.kaggle.com/datasets/abedkhooli/arabic-100k-reviews
+you need to download it because it is not with the files uploaded to this repo because of file size
